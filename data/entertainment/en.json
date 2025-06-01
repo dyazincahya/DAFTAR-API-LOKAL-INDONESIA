@@ -190,7 +190,7 @@
     },
     {
       "apiName": "Tahukah Anda API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://cinnabar.icaksh.my.id/public/daily/tawiki",
       "developer": {
         "name": "Icaksh",
